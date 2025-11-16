@@ -6,6 +6,22 @@ The server always responds with a 200 OK response, and logs to the console the i
 
 ## Quick start
 
+### 0. Clone this repository
+
+Navigate to the folder you wish to have the repo on.
+
+Clone it:
+
+```bash 
+git clone git@github.com:ceccon-t/catcher-server.git
+```
+
+Enter the cloned folder:
+
+```bash
+cd catcher-server
+```
+
 ### 1. Create and activate a virtual environment (optional, but strongly recommended)
 
 Create virtual environment:
