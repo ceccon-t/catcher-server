@@ -61,7 +61,7 @@ PORT=8000 python server.py
 Simple GET request:
 
 ```bash 
-curl "http://localhost:9999/some/endpoint?a=b
+curl "http://localhost:9999/some/endpoint?a=b"
 ```
 
 POST with a payload:
