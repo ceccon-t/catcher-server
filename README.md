@@ -6,10 +6,17 @@ The server always responds with a 200 OK response, and logs to the console the i
 
 ## Quick start
 
-### 1. Create an activate a virtual environment (optional, but strongly recommended)
+### 1. Create and activate a virtual environment (optional, but strongly recommended)
+
+Create virtual environment:
 
 ```bash 
 python3 -m venv env
+```
+
+Activate it:
+
+```bash 
 source env/bin/activate
 ```
 
